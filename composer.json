@@ -1,0 +1,12 @@
+{
+    "name": "imasznet/json-response",
+    "description": "Simple example class that returns a properly formatted json response with HTTP status",
+    "keywords": ["Json", "Response", "API Response Class", "PHP"],
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Devscreencast\\ResponseClass\\":"src/"
+        }
+    }
+}

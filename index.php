@@ -2,7 +2,7 @@
 
 require_once __DIR__ . "/vendor/autoload.php";
 
-use Devscreencast\ResponseClass\JsonResponse;
+use iMaSzExample\ResponseClass\JsonResponse;
 
 $student = array(
     'name' => 'John Doe',

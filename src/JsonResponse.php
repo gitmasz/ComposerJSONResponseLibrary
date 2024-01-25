@@ -1,6 +1,6 @@
 <?php
 
-namespace Devscreencast\ResponseClass;
+namespace iMaSzExample\ResponseClass;
 
 
 class JsonResponse
